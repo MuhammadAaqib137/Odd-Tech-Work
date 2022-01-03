@@ -1,0 +1,12 @@
+backup
+cdr_data
+chunks
+
+Data Engineering/*.csv
+Data Engineering/*.xlsx
+Data Engineering/data_engineering2021.ipynb
+Data Engineering/data_engineering_CDR.ipynb
+
+DatabaseWork/*
+!DatabaseWork/AttendenceDatabase.py
+!DatabaseWork/My_sql_work.ipynb
